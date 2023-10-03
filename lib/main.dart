@@ -12,7 +12,6 @@ class MainApp extends StatelessWidget {
     return const MaterialApp(
       home: Scaffold(
         body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text('cualquier maricada'),
           ],
